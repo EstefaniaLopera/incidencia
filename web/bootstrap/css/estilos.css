@@ -1,0 +1,88 @@
+.form-inline{
+text-align: right;
+background-color:black;
+}
+.table-condensed{
+   
+    width:900px;
+}
+.table{
+    margin-right:200px;
+     margin-top:100px;
+}
+
+.nav-tabs{
+  background:orange;
+
+ 
+}
+th{
+    font-weight: bold;
+    color:black;
+    font-family: sans-serif;
+}
+#logeado{
+    float:right;
+}
+.home{
+    margin-top:50px;
+}
+img{
+margin:auto;
+}
+.input-small{
+    margin-left:40px;
+}
+.btn-primary{
+      margin-top:20px;
+      background: orange;
+     
+}
+.formulario{
+    background:#FF7400;
+}
+body{
+    background:#F9F7ED;
+}
+
+img {
+    margin-bottom:10px;
+    margin-left:400px;
+}
+.texto{
+    text-align:right;
+}
+#pie{
+    margin-top:10px;
+}
+.btn-danger{
+    background:orange;
+    margin-left:18px;
+}
+#form {
+    border:1px solid #990000;
+    width:450px;
+    margin:auto;
+}
+#form legend{
+    font-weight:bold;
+    font-size:12px;
+}
+#form ol{
+    list-style:none;
+}
+#form ol li{
+    padding-bottom:5px;
+}
+#form ol li label{
+    width:120px;
+    float:left;
+    text-align:left;
+}
+fieldset{
+    margin:auto;
+}
+#contenido{
+    margin-top:20px;
+  margin-left:500px;
+}
